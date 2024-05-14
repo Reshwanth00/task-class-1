@@ -1,0 +1,13 @@
+.mainContainer{
+    height: 80%;
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bodyContainer{
+    width: 70%;
+    height: 100%;
+    background-color: white;
+}
